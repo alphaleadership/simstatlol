@@ -1,0 +1,82 @@
+{
+  "caitlyn": {
+    "atk_magic": "3.2",
+    "atk_phys": "93.0",
+    "atk_brut": "2.8",
+    "gold": "437",
+    "wards": "0.30",
+    "atk_min": "811"
+  },
+  "jinx": {
+    "atk_magic": "2.9",
+    "atk_phys": "94.1",
+    "atk_brut": "2.0",
+    "gold": "436",
+    "wards": "0.29",
+    "atk_min": "790"
+  },
+  "viego": {
+    "atk_magic": "10.8",
+    "atk_phys": "83.0",
+    "atk_brut": "5.2",
+    "gold": "419",
+    "wards": "0.19",
+    "atk_min": "625"
+  },
+  "ezreal": {
+    "atk_magic": "29.1",
+    "atk_phys": "67.8",
+    "atk_brut": "2.1",
+    "gold": "431",
+    "wards": "0.29",
+    "atk_min": "916"
+  },
+  "thresh": {
+    "atk_magic": "76.9",
+    "atk_phys": "13.7",
+    "atk_brut": "8.4",
+    "gold": "288",
+    "wards": "0.89",
+    "atk_min": "315"
+  },
+  "ahri": {
+    "atk_magic": "68.2",
+    "atk_phys": "7.7",
+    "atk_brut": "23.0",
+    "gold": "394",
+    "wards": "0.33",
+    "atk_min": "747"
+  },
+  "kaisa": {
+    "atk_magic": "40.0",
+    "atk_phys": "57.2",
+    "atk_brut": "1.8",
+    "gold": "457",
+    "wards": "0.30",
+    "atk_min": "826"
+  },
+  "leblanc": {
+    "atk_magic": "86.6",
+    "atk_phys": "5.6",
+    "atk_brut": "6.8",
+    "gold": "404",
+    "wards": "0.33",
+    "atk_min": "808"
+  },
+  "nautilus": {
+    "atk_magic": "61.7",
+    "atk_phys": "28.3",
+    "atk_brut": "9.0",
+    "gold": "290",
+    "wards": "0.89",
+    "atk_min": "333"
+  },
+  "jhin": {
+    "atk_magic": "4.3",
+    "atk_phys": "92.8",
+    "atk_brut": "1.9",
+    "gold": "437",
+    "wards": "0.30",
+    "atk_min": "762"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "katarina": {
+    "atk_magic": "68.8",
+    "atk_phys": "24.0",
+    "atk_brut": "6.2",
+    "gold": "425",
+    "wards": "0.26",
+    "atk_min": "848"
+  },
+  "senna": {
+    "atk_magic": "1.1",
+    "atk_phys": "95.4",
+    "atk_brut": "2.5",
+    "gold": "345",
+    "wards": "0.78",
+    "atk_min": "619"
+  },
+  "nilah": {
+    "atk_magic": "0.6",
+    "atk_phys": "94.9",
+    "atk_brut": "3.5",
+    "gold": "458",
+    "wards": "0.28",
+    "atk_min": "720"
+  },
+  "kindred": {
+    "atk_magic": "14.7",
+    "atk_phys": "75.4",
+    "atk_brut": "8.9",
+    "gold": "438",
+    "wards": "0.19",
+    "atk_min": "751"
+  },
+  "cassiopeia": {
+    "atk_magic": "96.2",
+    "atk_phys": "2.0",
+    "atk_brut": "0.8",
+    "gold": "413",
+    "wards": "0.32",
+    "atk_min": "831"
+  },
+  "karthus": {
+    "atk_magic": "91.7",
+    "atk_phys": "0.7",
+    "atk_brut": "6.5",
+    "gold": "443",
+    "wards": "0.20",
+    "atk_min": "1,066"
+  },
+  "nidalee": {
+    "atk_magic": "83.0",
+    "atk_phys": "7.6",
+    "atk_brut": "8.4",
+    "gold": "414",
+    "wards": "0.20",
+    "atk_min": "651"
+  },
+  "teemo": {
+    "atk_magic": "81.6",
+    "atk_phys": "11.9",
+    "atk_brut": "5.4",
+    "gold": "386",
+    "wards": "0.32",
+    "atk_min": "854"
+  },
+  "hecarim": {
+    "atk_magic": "14.7",
+    "atk_phys": "80.2",
+    "atk_brut": "4.1",
+    "gold": "432",
+    "wards": "0.16",
+    "atk_min": "651"
+  },
+  "milio": {
+    "atk_magic": "77.5",
+    "atk_phys": "18.2",
+    "atk_brut": "3.3",
+    "gold": "273",
+    "wards": "0.89",
+    "atk_min": "183"
+  }
+}

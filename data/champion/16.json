@@ -1,0 +1,82 @@
+{
+  "gangplank": {
+    "atk_magic": "13.8",
+    "atk_phys": "67.7",
+    "atk_brut": "17.5",
+    "gold": "461",
+    "wards": "0.29",
+    "atk_min": "835"
+  },
+  "vi": {
+    "atk_magic": "0.5",
+    "atk_phys": "91.1",
+    "atk_brut": "7.5",
+    "gold": "395",
+    "wards": "0.21",
+    "atk_min": "562"
+  },
+  "braum": {
+    "atk_magic": "74.3",
+    "atk_phys": "17.3",
+    "atk_brut": "7.5",
+    "gold": "285",
+    "wards": "0.91",
+    "atk_min": "301"
+  },
+  "aphelios": {
+    "atk_magic": "3.3",
+    "atk_phys": "93.6",
+    "atk_brut": "2.1",
+    "gold": "429",
+    "wards": "0.28",
+    "atk_min": "824"
+  },
+  "rell": {
+    "atk_magic": "65.4",
+    "atk_phys": "22.6",
+    "atk_brut": "10.9",
+    "gold": "289",
+    "wards": "0.96",
+    "atk_min": "274"
+  },
+  "velkoz": {
+    "atk_magic": "72.1",
+    "atk_phys": "2.4",
+    "atk_brut": "24.6",
+    "gold": "359",
+    "wards": "0.69",
+    "atk_min": "826"
+  },
+  "annie": {
+    "atk_magic": "90.4",
+    "atk_phys": "4.0",
+    "atk_brut": "4.6",
+    "gold": "380",
+    "wards": "0.38",
+    "atk_min": "781"
+  },
+  "qiyana": {
+    "atk_magic": "7.7",
+    "atk_phys": "84.8",
+    "atk_brut": "6.5",
+    "gold": "424",
+    "wards": "0.23",
+    "atk_min": "789"
+  },
+  "illaoi": {
+    "atk_magic": "3.6",
+    "atk_phys": "94.1",
+    "atk_brut": "1.4",
+    "gold": "418",
+    "wards": "0.29",
+    "atk_min": "931"
+  },
+  "ksante": {
+    "atk_magic": "15.8",
+    "atk_phys": "75.7",
+    "atk_brut": "7.5",
+    "gold": "375",
+    "wards": "0.28",
+    "atk_min": "668"
+  }
+}

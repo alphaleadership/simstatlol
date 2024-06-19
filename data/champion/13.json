@@ -1,0 +1,82 @@
+{
+  "nasus": {
+    "atk_magic": "36.5",
+    "atk_phys": "60.6",
+    "atk_brut": "1.9",
+    "gold": "410",
+    "wards": "0.29",
+    "atk_min": "734"
+  },
+  "jax": {
+    "atk_magic": "38.6",
+    "atk_phys": "57.2",
+    "atk_brut": "3.1",
+    "gold": "411",
+    "wards": "0.31",
+    "atk_min": "698"
+  },
+  "taliyah": {
+    "atk_magic": "90.1",
+    "atk_phys": "3.6",
+    "atk_brut": "5.3",
+    "gold": "426",
+    "wards": "0.26",
+    "atk_min": "790"
+  },
+  "azir": {
+    "atk_magic": "94.0",
+    "atk_phys": "3.0",
+    "atk_brut": "1.9",
+    "gold": "402",
+    "wards": "0.31",
+    "atk_min": "759"
+  },
+  "tahmkench": {
+    "atk_magic": "76.1",
+    "atk_phys": "19.8",
+    "atk_brut": "3.2",
+    "gold": "358",
+    "wards": "0.43",
+    "atk_min": "704"
+  },
+  "alistar": {
+    "atk_magic": "74.6",
+    "atk_phys": "14.7",
+    "atk_brut": "9.7",
+    "gold": "283",
+    "wards": "0.92",
+    "atk_min": "296"
+  },
+  "zac": {
+    "atk_magic": "85.0",
+    "atk_phys": "8.0",
+    "atk_brut": "6.0",
+    "gold": "374",
+    "wards": "0.27",
+    "atk_min": "610"
+  },
+  "fiddlesticks": {
+    "atk_magic": "91.5",
+    "atk_phys": "1.4",
+    "atk_brut": "6.1",
+    "gold": "390",
+    "wards": "0.16",
+    "atk_min": "665"
+  },
+  "ivern": {
+    "atk_magic": "58.8",
+    "atk_phys": "28.1",
+    "atk_brut": "12.1",
+    "gold": "346",
+    "wards": "0.25",
+    "atk_min": "349"
+  },
+  "pantheon": {
+    "atk_magic": "3.3",
+    "atk_phys": "90.1",
+    "atk_brut": "5.6",
+    "gold": "384",
+    "wards": "0.46",
+    "atk_min": "757"
+  }
+}

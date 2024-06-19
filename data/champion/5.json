@@ -1,0 +1,82 @@
+{
+  "quinn": {
+    "atk_magic": "0.9",
+    "atk_phys": "91.0",
+    "atk_brut": "7.2",
+    "gold": "421",
+    "wards": "0.28",
+    "atk_min": "849"
+  },
+  "rammus": {
+    "atk_magic": "79.7",
+    "atk_phys": "15.3",
+    "atk_brut": "4.0",
+    "gold": "361",
+    "wards": "0.23",
+    "atk_min": "537"
+  },
+  "shaco": {
+    "atk_magic": "49.0",
+    "atk_phys": "38.9",
+    "atk_brut": "11.1",
+    "gold": "393",
+    "wards": "0.29",
+    "atk_min": "646"
+  },
+  "karma": {
+    "atk_magic": "88.5",
+    "atk_phys": "6.4",
+    "atk_brut": "4.1",
+    "gold": "303",
+    "wards": "0.99",
+    "atk_min": "489"
+  },
+  "twitch": {
+    "atk_magic": "5.4",
+    "atk_phys": "77.7",
+    "atk_brut": "15.9",
+    "gold": "441",
+    "wards": "0.32",
+    "atk_min": "863"
+  },
+  "neeko": {
+    "atk_magic": "86.8",
+    "atk_phys": "7.9",
+    "atk_brut": "4.3",
+    "gold": "342",
+    "wards": "0.64",
+    "atk_min": "632"
+  },
+  "viktor": {
+    "atk_magic": "94.3",
+    "atk_phys": "2.4",
+    "atk_brut": "2.4",
+    "gold": "419",
+    "wards": "0.33",
+    "atk_min": "921"
+  },
+  "urgot": {
+    "atk_magic": "0.8",
+    "atk_phys": "90.4",
+    "atk_brut": "7.8",
+    "gold": "428",
+    "wards": "0.30",
+    "atk_min": "760"
+  },
+  "sona": {
+    "atk_magic": "77.8",
+    "atk_phys": "17.2",
+    "atk_brut": "4.0",
+    "gold": "291",
+    "wards": "0.88",
+    "atk_min": "362"
+  },
+  "diana": {
+    "atk_magic": "81.9",
+    "atk_phys": "11.3",
+    "atk_brut": "5.8",
+    "gold": "441",
+    "wards": "0.22",
+    "atk_min": "748"
+  }
+}

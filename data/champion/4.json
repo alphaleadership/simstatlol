@@ -1,0 +1,82 @@
+{
+  "nocturne": {
+    "atk_magic": "6.2",
+    "atk_phys": "85.9",
+    "atk_brut": "6.9",
+    "gold": "419",
+    "wards": "0.21",
+    "atk_min": "630"
+  },
+  "varus": {
+    "atk_magic": "26.0",
+    "atk_phys": "70.6",
+    "atk_brut": "2.4",
+    "gold": "443",
+    "wards": "0.31",
+    "atk_min": "806"
+  },
+  "vayne": {
+    "atk_magic": "3.7",
+    "atk_phys": "73.9",
+    "atk_brut": "21.3",
+    "gold": "424",
+    "wards": "0.30",
+    "atk_min": "781"
+  },
+  "twistedfate": {
+    "atk_magic": "64.7",
+    "atk_phys": "31.5",
+    "atk_brut": "2.9",
+    "gold": "422",
+    "wards": "0.34",
+    "atk_min": "637"
+  },
+  "blitzcrank": {
+    "atk_magic": "61.7",
+    "atk_phys": "27.4",
+    "atk_brut": "10.0",
+    "gold": "282",
+    "wards": "0.94",
+    "atk_min": "308"
+  },
+  "camille": {
+    "atk_magic": "5.5",
+    "atk_phys": "64.0",
+    "atk_brut": "29.5",
+    "gold": "397",
+    "wards": "0.42",
+    "atk_min": "764"
+  },
+  "darius": {
+    "atk_magic": "0.4",
+    "atk_phys": "80.6",
+    "atk_brut": "18.0",
+    "gold": "418",
+    "wards": "0.29",
+    "atk_min": "708"
+  },
+  "akali": {
+    "atk_magic": "87.3",
+    "atk_phys": "7.1",
+    "atk_brut": "4.6",
+    "gold": "398",
+    "wards": "0.28",
+    "atk_min": "789"
+  },
+  "zilean": {
+    "atk_magic": "80.7",
+    "atk_phys": "12.7",
+    "atk_brut": "5.6",
+    "gold": "298",
+    "wards": "0.83",
+    "atk_min": "356"
+  },
+  "nunu": {
+    "atk_magic": "86.7",
+    "atk_phys": "6.7",
+    "atk_brut": "5.6",
+    "gold": "377",
+    "wards": "0.19",
+    "atk_min": "538"
+  }
+}

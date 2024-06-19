@@ -1,0 +1,82 @@
+{
+  "briar": {
+    "atk_magic": "20.6",
+    "atk_phys": "72.0",
+    "atk_brut": "6.5",
+    "gold": "430",
+    "wards": "0.20",
+    "atk_min": "773"
+  },
+  "sivir": {
+    "atk_magic": "2.2",
+    "atk_phys": "94.1",
+    "atk_brut": "2.7",
+    "gold": "453",
+    "wards": "0.31",
+    "atk_min": "797"
+  },
+  "smolder": {
+    "atk_magic": "20.0",
+    "atk_phys": "67.4",
+    "atk_brut": "11.5",
+    "gold": "429",
+    "wards": "0.30",
+    "atk_min": "897"
+  },
+  "gragas": {
+    "atk_magic": "86.9",
+    "atk_phys": "7.9",
+    "atk_brut": "4.1",
+    "gold": "388",
+    "wards": "0.27",
+    "atk_min": "710"
+  },
+  "riven": {
+    "atk_magic": "0.3",
+    "atk_phys": "93.7",
+    "atk_brut": "5.0",
+    "gold": "416",
+    "wards": "0.28",
+    "atk_min": "698"
+  },
+  "orianna": {
+    "atk_magic": "92.8",
+    "atk_phys": "5.0",
+    "atk_brut": "1.2",
+    "gold": "391",
+    "wards": "0.34",
+    "atk_min": "724"
+  },
+  "seraphine": {
+    "atk_magic": "85.6",
+    "atk_phys": "9.5",
+    "atk_brut": "3.9",
+    "gold": "326",
+    "wards": "0.78",
+    "atk_min": "493"
+  },
+  "draven": {
+    "atk_magic": "0.6",
+    "atk_phys": "96.5",
+    "atk_brut": "1.9",
+    "gold": "487",
+    "wards": "0.26",
+    "atk_min": "858"
+  },
+  "syndra": {
+    "atk_magic": "87.8",
+    "atk_phys": "3.7",
+    "atk_brut": "7.5",
+    "gold": "418",
+    "wards": "0.35",
+    "atk_min": "804"
+  },
+  "belveth": {
+    "atk_magic": "12.1",
+    "atk_phys": "70.7",
+    "atk_brut": "16.1",
+    "gold": "434",
+    "wards": "0.18",
+    "atk_min": "567"
+  }
+}

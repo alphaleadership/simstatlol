@@ -1,0 +1,82 @@
+{
+  "kassadin": {
+    "atk_magic": "88.4",
+    "atk_phys": "7.2",
+    "atk_brut": "3.3",
+    "gold": "419",
+    "wards": "0.25",
+    "atk_min": "782"
+  },
+  "maokai": {
+    "atk_magic": "82.0",
+    "atk_phys": "10.6",
+    "atk_brut": "6.4",
+    "gold": "321",
+    "wards": "0.60",
+    "atk_min": "502"
+  },
+  "xinzhao": {
+    "atk_magic": "6.9",
+    "atk_phys": "86.6",
+    "atk_brut": "5.5",
+    "gold": "405",
+    "wards": "0.20",
+    "atk_min": "685"
+  },
+  "garen": {
+    "atk_magic": "0.5",
+    "atk_phys": "76.7",
+    "atk_brut": "21.8",
+    "gold": "434",
+    "wards": "0.29",
+    "atk_min": "718"
+  },
+  "pyke": {
+    "atk_magic": "0.2",
+    "atk_phys": "78.8",
+    "atk_brut": "20.0",
+    "gold": "341",
+    "wards": "1.23",
+    "atk_min": "416"
+  },
+  "ornn": {
+    "atk_magic": "64.4",
+    "atk_phys": "33.0",
+    "atk_brut": "1.6",
+    "gold": "367",
+    "wards": "0.30",
+    "atk_min": "679"
+  },
+  "sejuani": {
+    "atk_magic": "42.9",
+    "atk_phys": "50.5",
+    "atk_brut": "5.6",
+    "gold": "375",
+    "wards": "0.23",
+    "atk_min": "545"
+  },
+  "yorick": {
+    "atk_magic": "33.1",
+    "atk_phys": "64.2",
+    "atk_brut": "1.8",
+    "gold": "441",
+    "wards": "0.29",
+    "atk_min": "805"
+  },
+  "zoe": {
+    "atk_magic": "75.6",
+    "atk_phys": "7.8",
+    "atk_brut": "15.6",
+    "gold": "387",
+    "wards": "0.42",
+    "atk_min": "823"
+  },
+  "anivia": {
+    "atk_magic": "87.2",
+    "atk_phys": "6.5",
+    "atk_brut": "5.2",
+    "gold": "393",
+    "wards": "0.39",
+    "atk_min": "708"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "vladimir": {
+    "atk_magic": "92.3",
+    "atk_phys": "4.3",
+    "atk_brut": "2.4",
+    "gold": "414",
+    "wards": "0.29",
+    "atk_min": "884"
+  },
+  "fiora": {
+    "atk_magic": "6.1",
+    "atk_phys": "63.1",
+    "atk_brut": "29.8",
+    "gold": "430",
+    "wards": "0.29",
+    "atk_min": "791"
+  },
+  "fizz": {
+    "atk_magic": "78.1",
+    "atk_phys": "12.3",
+    "atk_brut": "8.6",
+    "gold": "429",
+    "wards": "0.26",
+    "atk_min": "746"
+  },
+  "corki": {
+    "atk_magic": "14.7",
+    "atk_phys": "71.7",
+    "atk_brut": "12.7",
+    "gold": "446",
+    "wards": "0.30",
+    "atk_min": "836"
+  },
+  "ekko": {
+    "atk_magic": "79.3",
+    "atk_phys": "11.5",
+    "atk_brut": "8.2",
+    "gold": "428",
+    "wards": "0.21",
+    "atk_min": "718"
+  },
+  "rengar": {
+    "atk_magic": "6.6",
+    "atk_phys": "86.5",
+    "atk_brut": "5.8",
+    "gold": "431",
+    "wards": "0.19",
+    "atk_min": "675"
+  },
+  "reksai": {
+    "atk_magic": "15.3",
+    "atk_phys": "76.8",
+    "atk_brut": "6.9",
+    "gold": "402",
+    "wards": "0.20",
+    "atk_min": "563"
+  },
+  "udyr": {
+    "atk_magic": "54.0",
+    "atk_phys": "40.6",
+    "atk_brut": "4.3",
+    "gold": "408",
+    "wards": "0.19",
+    "atk_min": "641"
+  },
+  "tryndamere": {
+    "atk_magic": "3.6",
+    "atk_phys": "92.6",
+    "atk_brut": "2.8",
+    "gold": "451",
+    "wards": "0.28",
+    "atk_min": "710"
+  },
+  "naafiri": {
+    "atk_magic": "0.5",
+    "atk_phys": "91.9",
+    "atk_brut": "6.7",
+    "gold": "440",
+    "wards": "0.26",
+    "atk_min": "862"
+  }
+}

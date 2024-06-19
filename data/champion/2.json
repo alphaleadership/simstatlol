@@ -1,0 +1,82 @@
+{
+  "lux": {
+    "atk_magic": "89.0",
+    "atk_phys": "5.5",
+    "atk_brut": "4.5",
+    "gold": "354",
+    "wards": "0.65",
+    "atk_min": "698"
+  },
+  "leesin": {
+    "atk_magic": "15.3",
+    "atk_phys": "77.4",
+    "atk_brut": "6.3",
+    "gold": "407",
+    "wards": "0.45",
+    "atk_min": "608"
+  },
+  "brand": {
+    "atk_magic": "92.0",
+    "atk_phys": "3.4",
+    "atk_brut": "3.5",
+    "gold": "381",
+    "wards": "0.45",
+    "atk_min": "836"
+  },
+  "lucian": {
+    "atk_magic": "10.2",
+    "atk_phys": "85.9",
+    "atk_brut": "2.9",
+    "gold": "450",
+    "wards": "0.31",
+    "atk_min": "844"
+  },
+  "ashe": {
+    "atk_magic": "9.8",
+    "atk_phys": "86.6",
+    "atk_brut": "2.6",
+    "gold": "398",
+    "wards": "0.41",
+    "atk_min": "697"
+  },
+  "yasuo": {
+    "atk_magic": "7.6",
+    "atk_phys": "87.6",
+    "atk_brut": "3.8",
+    "gold": "422",
+    "wards": "0.29",
+    "atk_min": "696"
+  },
+  "volibear": {
+    "atk_magic": "42.4",
+    "atk_phys": "53.1",
+    "atk_brut": "3.4",
+    "gold": "407",
+    "wards": "0.25",
+    "atk_min": "728"
+  },
+  "lulu": {
+    "atk_magic": "80.2",
+    "atk_phys": "13.6",
+    "atk_brut": "5.2",
+    "gold": "284",
+    "wards": "0.93",
+    "atk_min": "264"
+  },
+  "leona": {
+    "atk_magic": "64.0",
+    "atk_phys": "25.9",
+    "atk_brut": "9.1",
+    "gold": "288",
+    "wards": "0.93",
+    "atk_min": "344"
+  },
+  "yone": {
+    "atk_magic": "18.8",
+    "atk_phys": "68.4",
+    "atk_brut": "11.8",
+    "gold": "413",
+    "wards": "0.29",
+    "atk_min": "783"
+  }
+}

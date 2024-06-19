@@ -1,0 +1,82 @@
+{
+  "malphite": {
+    "atk_magic": "73.6",
+    "atk_phys": "22.6",
+    "atk_brut": "2.7",
+    "gold": "373",
+    "wards": "0.33",
+    "atk_min": "707"
+  },
+  "elise": {
+    "atk_magic": "84.4",
+    "atk_phys": "7.3",
+    "atk_brut": "7.3",
+    "gold": "400",
+    "wards": "0.22",
+    "atk_min": "657"
+  },
+  "vex": {
+    "atk_magic": "90.8",
+    "atk_phys": "6.1",
+    "atk_brut": "2.1",
+    "gold": "406",
+    "wards": "0.33",
+    "atk_min": "854"
+  },
+  "masteryi": {
+    "atk_magic": "3.6",
+    "atk_phys": "68.1",
+    "atk_brut": "27.3",
+    "gold": "432",
+    "wards": "0.18",
+    "atk_min": "680"
+  },
+  "bard": {
+    "atk_magic": "65.2",
+    "atk_phys": "24.8",
+    "atk_brut": "9.0",
+    "gold": "295",
+    "wards": "1.06",
+    "atk_min": "382"
+  },
+  "missfortune": {
+    "atk_magic": "8.3",
+    "atk_phys": "87.0",
+    "atk_brut": "3.7",
+    "gold": "430",
+    "wards": "0.37",
+    "atk_min": "772"
+  },
+  "veigar": {
+    "atk_magic": "93.8",
+    "atk_phys": "3.0",
+    "atk_brut": "2.2",
+    "gold": "416",
+    "wards": "0.37",
+    "atk_min": "794"
+  },
+  "aurelionsol": {
+    "atk_magic": "95.3",
+    "atk_phys": "1.2",
+    "atk_brut": "2.5",
+    "gold": "413",
+    "wards": "0.32",
+    "atk_min": "798"
+  },
+  "jarvaniv": {
+    "atk_magic": "8.3",
+    "atk_phys": "84.0",
+    "atk_brut": "6.8",
+    "gold": "400",
+    "wards": "0.23",
+    "atk_min": "560"
+  },
+  "xayah": {
+    "atk_magic": "0.5",
+    "atk_phys": "96.7",
+    "atk_brut": "1.8",
+    "gold": "435",
+    "wards": "0.31",
+    "atk_min": "785"
+  }
+}

@@ -1,0 +1,1172 @@
+{
+  "aatrox": {
+    "atk_magic": "15.8",
+    "atk_phys": "81.6",
+    "atk_brut": "1.5",
+    "gold": "Gold par minute",
+    "wards": "Jun 2013"
+  },
+  "kaisa": {
+    "atk_magic": "40.0",
+    "atk_phys": "57.2",
+    "atk_brut": "1.8",
+    "gold": "Gold par minute",
+    "wards": "Mar 2018"
+  },
+  "brand": {
+    "atk_magic": "92.0",
+    "atk_phys": "3.4",
+    "atk_brut": "3.5",
+    "gold": "Gold par minute",
+    "wards": "Apr 2011"
+  },
+  "jhin": {
+    "atk_magic": "4.3",
+    "atk_phys": "92.8",
+    "atk_brut": "1.9",
+    "gold": "Gold par minute",
+    "wards": "Jan 2016"
+  },
+  "ashe": {
+    "atk_magic": "9.8",
+    "atk_phys": "86.6",
+    "atk_brut": "2.6",
+    "gold": "Gold par minute",
+    "wards": "Feb 2009"
+  },
+  "ezreal": {
+    "atk_magic": "29.1",
+    "atk_phys": "67.8",
+    "atk_brut": "2.1",
+    "gold": "Gold par minute",
+    "wards": "Mar 2010"
+  },
+  "lux": {
+    "atk_magic": "89.0",
+    "atk_phys": "5.5",
+    "atk_brut": "4.5",
+    "gold": "Gold par minute",
+    "wards": "Oct 2010"
+  },
+  "caitlyn": {
+    "atk_magic": "3.2",
+    "atk_phys": "93.0",
+    "atk_brut": "2.8",
+    "gold": "Gold par minute",
+    "wards": "Jan 2011"
+  },
+  "viego": {
+    "atk_magic": "10.8",
+    "atk_phys": "83.0",
+    "atk_brut": "5.2",
+    "gold": "Gold par minute",
+    "wards": "Jan 2021"
+  },
+  "leblanc": {
+    "atk_magic": "86.6",
+    "atk_phys": "5.6",
+    "atk_brut": "6.8",
+    "gold": "Gold par minute",
+    "wards": "Nov 2010"
+  },
+  "nautilus": {
+    "atk_magic": "61.7",
+    "atk_phys": "28.3",
+    "atk_brut": "9.0",
+    "gold": "Gold par minute",
+    "wards": "Feb 2012"
+  },
+  "ahri": {
+    "atk_magic": "68.2",
+    "atk_phys": "7.7",
+    "atk_brut": "23.0",
+    "gold": "Gold par minute",
+    "wards": "Dec 2011"
+  },
+  "thresh": {
+    "atk_magic": "76.9",
+    "atk_phys": "13.7",
+    "atk_brut": "8.4",
+    "gold": "Gold par minute",
+    "wards": "Jan 2013"
+  },
+  "leesin": {
+    "atk_magic": "15.3",
+    "atk_phys": "77.4",
+    "atk_brut": "6.3",
+    "gold": "Gold par minute",
+    "wards": "Mar 2010"
+  },
+  "jinx": {
+    "atk_magic": "2.9",
+    "atk_phys": "94.1",
+    "atk_brut": "2.0",
+    "gold": "Gold par minute",
+    "wards": "Oct 2013"
+  },
+  "sylas": {
+    "atk_magic": "90.8",
+    "atk_phys": "2.8",
+    "atk_brut": "5.4",
+    "gold": "Gold par minute",
+    "wards": "Jan 2019"
+  },
+  "khazix": {
+    "atk_magic": "5.0",
+    "atk_phys": "86.7",
+    "atk_brut": "7.3",
+    "gold": "Gold par minute",
+    "wards": "Sep 2012"
+  },
+  "hwei": {
+    "atk_magic": "92.8",
+    "atk_phys": "4.3",
+    "atk_brut": "1.9",
+    "gold": "Gold par minute",
+    "wards": "Dec 2023"
+  },
+  "yasuo": {
+    "atk_magic": "7.6",
+    "atk_phys": "87.6",
+    "atk_brut": "3.8",
+    "gold": "Gold par minute",
+    "wards": "Dec 2013"
+  },
+  "nami": {
+    "atk_magic": "84.6",
+    "atk_phys": "10.4",
+    "atk_brut": "3.9",
+    "gold": "Gold par minute",
+    "wards": "Dec 2012"
+  },
+  "lucian": {
+    "atk_magic": "10.2",
+    "atk_phys": "85.9",
+    "atk_brut": "2.9",
+    "gold": "Gold par minute",
+    "wards": "Aug 2013"
+  },
+  "tristana": {
+    "atk_magic": "9.6",
+    "atk_phys": "87.1",
+    "atk_brut": "2.3",
+    "gold": "Gold par minute",
+    "wards": "Feb 2009"
+  },
+  "volibear": {
+    "atk_magic": "42.4",
+    "atk_phys": "53.1",
+    "atk_brut": "3.4",
+    "gold": "Gold par minute",
+    "wards": "Nov 2011"
+  },
+  "lulu": {
+    "atk_magic": "80.2",
+    "atk_phys": "13.6",
+    "atk_brut": "5.2",
+    "gold": "Gold par minute",
+    "wards": "Mar 2012"
+  },
+  "garen": {
+    "atk_magic": "0.5",
+    "atk_phys": "76.7",
+    "atk_brut": "21.8",
+    "gold": "Gold par minute",
+    "wards": "Apr 2010"
+  },
+  "karma": {
+    "atk_magic": "88.5",
+    "atk_phys": "6.4",
+    "atk_brut": "4.1",
+    "gold": "Gold par minute",
+    "wards": "Jan 2011"
+  },
+  "yone": {
+    "atk_magic": "18.8",
+    "atk_phys": "68.4",
+    "atk_brut": "11.8",
+    "gold": "Gold par minute",
+    "wards": "Aug 2020"
+  },
+  "leona": {
+    "atk_magic": "64.0",
+    "atk_phys": "25.9",
+    "atk_brut": "9.1",
+    "gold": "Gold par minute",
+    "wards": "Jul 2011"
+  },
+  "camille": {
+    "atk_magic": "5.5",
+    "atk_phys": "64.0",
+    "atk_brut": "29.5",
+    "gold": "Gold par minute",
+    "wards": "Dec 2016"
+  },
+  "skarner": {
+    "atk_magic": "38.3",
+    "atk_phys": "58.3",
+    "atk_brut": "2.5",
+    "gold": "Gold par minute",
+    "wards": "Aug 2011"
+  },
+  "zed": {
+    "atk_magic": "4.9",
+    "atk_phys": "88.5",
+    "atk_brut": "5.6",
+    "gold": "Gold par minute",
+    "wards": "Nov 2012"
+  },
+  "zeri": {
+    "atk_magic": "29.1",
+    "atk_phys": "67.5",
+    "atk_brut": "2.4",
+    "gold": "Gold par minute",
+    "wards": "Jan 2022"
+  },
+  "gragas": {
+    "atk_magic": "86.9",
+    "atk_phys": "7.9",
+    "atk_brut": "4.1",
+    "gold": "Gold par minute",
+    "wards": "Feb 2010"
+  },
+  "shaco": {
+    "atk_magic": "49.0",
+    "atk_phys": "38.9",
+    "atk_brut": "11.1",
+    "gold": "Gold par minute",
+    "wards": "Oct 2009"
+  },
+  "xerath": {
+    "atk_magic": "93.5",
+    "atk_phys": "2.8",
+    "atk_brut": "2.7",
+    "gold": "Gold par minute",
+    "wards": "Oct 2011"
+  },
+  "lillia": {
+    "atk_magic": "75.8",
+    "atk_phys": "3.6",
+    "atk_brut": "19.6",
+    "gold": "Gold par minute",
+    "wards": "Jul 2020"
+  },
+  "vayne": {
+    "atk_magic": "3.7",
+    "atk_phys": "73.9",
+    "atk_brut": "21.3",
+    "gold": "Gold par minute",
+    "wards": "May 2011"
+  },
+  "pyke": {
+    "atk_magic": "0.2",
+    "atk_phys": "78.8",
+    "atk_brut": "20.0",
+    "gold": "Gold par minute",
+    "wards": "May 2018"
+  },
+  "sett": {
+    "atk_magic": "0.8",
+    "atk_phys": "77.9",
+    "atk_brut": "20.3",
+    "gold": "Gold par minute",
+    "wards": "Jan 2020"
+  },
+  "diana": {
+    "atk_magic": "81.9",
+    "atk_phys": "11.3",
+    "atk_brut": "5.8",
+    "gold": "Gold par minute",
+    "wards": "Aug 2012"
+  },
+  "nidalee": {
+    "atk_magic": "83.0",
+    "atk_phys": "7.6",
+    "atk_brut": "8.4",
+    "gold": "Gold par minute",
+    "wards": "Dec 2009"
+  },
+  "nocturne": {
+    "atk_magic": "6.2",
+    "atk_phys": "85.9",
+    "atk_brut": "6.9",
+    "gold": "Gold par minute",
+    "wards": "Mar 2011"
+  },
+  "darius": {
+    "atk_magic": "0.4",
+    "atk_phys": "80.6",
+    "atk_brut": "18.0",
+    "gold": "Gold par minute",
+    "wards": "May 2012"
+  },
+  "smolder": {
+    "atk_magic": "20.0",
+    "atk_phys": "67.4",
+    "atk_brut": "11.5",
+    "gold": "Gold par minute",
+    "wards": "Jan 2024"
+  },
+  "mordekaiser": {
+    "atk_magic": "85.2",
+    "atk_phys": "11.6",
+    "atk_brut": "2.2",
+    "gold": "Gold par minute",
+    "wards": "Feb 2010"
+  },
+  "jax": {
+    "atk_magic": "38.6",
+    "atk_phys": "57.2",
+    "atk_brut": "3.1",
+    "gold": "Gold par minute",
+    "wards": "Feb 2009"
+  },
+  "malphite": {
+    "atk_magic": "73.6",
+    "atk_phys": "22.6",
+    "atk_brut": "2.7",
+    "gold": "Gold par minute",
+    "wards": "Sep 2009"
+  },
+  "twistedfate": {
+    "atk_magic": "64.7",
+    "atk_phys": "31.5",
+    "atk_brut": "2.9",
+    "gold": "Gold par minute",
+    "wards": "Feb 2009"
+  },
+  "taliyah": {
+    "atk_magic": "90.1",
+    "atk_phys": "3.6",
+    "atk_brut": "5.3",
+    "gold": "Gold par minute",
+    "wards": "May 2016"
+  },
+  "akali": {
+    "atk_magic": "87.3",
+    "atk_phys": "7.1",
+    "atk_brut": "4.6",
+    "gold": "Gold par minute",
+    "wards": "May 2010"
+  },
+  "blitzcrank": {
+    "atk_magic": "61.7",
+    "atk_phys": "27.4",
+    "atk_brut": "10.0",
+    "gold": "Gold par minute",
+    "wards": "Sep 2009"
+  },
+  "poppy": {
+    "atk_magic": "17.0",
+    "atk_phys": "76.3",
+    "atk_brut": "5.7",
+    "gold": "Gold par minute",
+    "wards": "Jan 2010"
+  },
+  "irelia": {
+    "atk_magic": "26.8",
+    "atk_phys": "69.8",
+    "atk_brut": "2.4",
+    "gold": "Gold par minute",
+    "wards": "Nov 2010"
+  },
+  "kayn": {
+    "atk_magic": "5.5",
+    "atk_phys": "87.1",
+    "atk_brut": "6.4",
+    "gold": "Gold par minute",
+    "wards": "Jul 2017"
+  },
+  "morgana": {
+    "atk_magic": "87.4",
+    "atk_phys": "5.6",
+    "atk_brut": "6.1",
+    "gold": "Gold par minute",
+    "wards": "Feb 2009"
+  },
+  "seraphine": {
+    "atk_magic": "85.6",
+    "atk_phys": "9.5",
+    "atk_brut": "3.9",
+    "gold": "Gold par minute",
+    "wards": "Oct 2020"
+  },
+  "graves": {
+    "atk_magic": "3.7",
+    "atk_phys": "87.3",
+    "atk_brut": "8.0",
+    "gold": "Gold par minute",
+    "wards": "Oct 2011"
+  },
+  "yuumi": {
+    "atk_magic": "88.6",
+    "atk_phys": "4.3",
+    "atk_brut": "6.0",
+    "gold": "Gold par minute",
+    "wards": "May 2019"
+  },
+  "draven": {
+    "atk_magic": "0.6",
+    "atk_phys": "96.5",
+    "atk_brut": "1.9",
+    "gold": "Gold par minute",
+    "wards": "Jun 2012"
+  },
+  "renekton": {
+    "atk_magic": "14.0",
+    "atk_phys": "82.4",
+    "atk_brut": "2.6",
+    "gold": "Gold par minute",
+    "wards": "Jan 2011"
+  },
+  "braum": {
+    "atk_magic": "74.3",
+    "atk_phys": "17.3",
+    "atk_brut": "7.5",
+    "gold": "Gold par minute",
+    "wards": "May 2014"
+  },
+  "samira": {
+    "atk_magic": "10.7",
+    "atk_phys": "85.5",
+    "atk_brut": "2.9",
+    "gold": "Gold par minute",
+    "wards": "Sep 2020"
+  },
+  "missfortune": {
+    "atk_magic": "8.3",
+    "atk_phys": "87.0",
+    "atk_brut": "3.7",
+    "gold": "Gold par minute",
+    "wards": "Sep 2010"
+  },
+  "masteryi": {
+    "atk_magic": "3.6",
+    "atk_phys": "68.1",
+    "atk_brut": "27.3",
+    "gold": "Gold par minute",
+    "wards": "Feb 2009"
+  },
+  "naafiri": {
+    "atk_magic": "0.5",
+    "atk_phys": "91.9",
+    "atk_brut": "6.7",
+    "gold": "Gold par minute",
+    "wards": "Jul 2023"
+  },
+  "zac": {
+    "atk_magic": "85.0",
+    "atk_phys": "8.0",
+    "atk_brut": "6.0",
+    "gold": "Gold par minute",
+    "wards": "Mar 2013"
+  },
+  "corki": {
+    "atk_magic": "14.7",
+    "atk_phys": "71.7",
+    "atk_brut": "12.7",
+    "gold": "Gold par minute",
+    "wards": "Sep 2009"
+  },
+  "senna": {
+    "atk_magic": "1.1",
+    "atk_phys": "95.4",
+    "atk_brut": "2.5",
+    "gold": "Gold par minute",
+    "wards": "Nov 2019"
+  },
+  "katarina": {
+    "atk_magic": "68.8",
+    "atk_phys": "24.0",
+    "atk_brut": "6.2",
+    "gold": "Gold par minute",
+    "wards": "Sep 2009"
+  },
+  "malzahar": {
+    "atk_magic": "95.1",
+    "atk_phys": "2.6",
+    "atk_brut": "1.3",
+    "gold": "Gold par minute",
+    "wards": "May 2010"
+  },
+  "xinzhao": {
+    "atk_magic": "6.9",
+    "atk_phys": "86.6",
+    "atk_brut": "5.5",
+    "gold": "Gold par minute",
+    "wards": "Jul 2010"
+  },
+  "sivir": {
+    "atk_magic": "2.2",
+    "atk_phys": "94.1",
+    "atk_brut": "2.7",
+    "gold": "Gold par minute",
+    "wards": "Feb 2009"
+  },
+  "milio": {
+    "atk_magic": "77.5",
+    "atk_phys": "18.2",
+    "atk_brut": "3.3",
+    "gold": "Gold par minute",
+    "wards": "Mar 2023"
+  },
+  "nasus": {
+    "atk_magic": "36.5",
+    "atk_phys": "60.6",
+    "atk_brut": "1.9",
+    "gold": "Gold par minute",
+    "wards": "Sep 2009"
+  },
+  "karthus": {
+    "atk_magic": "91.7",
+    "atk_phys": "0.7",
+    "atk_brut": "6.5",
+    "gold": "Gold par minute",
+    "wards": "Jun 2009"
+  },
+  "veigar": {
+    "atk_magic": "93.8",
+    "atk_phys": "3.0",
+    "atk_brut": "2.2",
+    "gold": "Gold par minute",
+    "wards": "Jul 2009"
+  },
+  "rell": {
+    "atk_magic": "65.4",
+    "atk_phys": "22.6",
+    "atk_brut": "10.9",
+    "gold": "Gold par minute",
+    "wards": "Dec 2020"
+  },
+  "aphelios": {
+    "atk_magic": "3.3",
+    "atk_phys": "93.6",
+    "atk_brut": "2.1",
+    "gold": "Gold par minute",
+    "wards": "Dec 2019"
+  },
+  "warwick": {
+    "atk_magic": "49.5",
+    "atk_phys": "45.6",
+    "atk_brut": "3.8",
+    "gold": "Gold par minute",
+    "wards": "Feb 2009"
+  },
+  "vi": {
+    "atk_magic": "0.5",
+    "atk_phys": "91.1",
+    "atk_brut": "7.5",
+    "gold": "Gold par minute",
+    "wards": "Dec 2012"
+  },
+  "illaoi": {
+    "atk_magic": "3.6",
+    "atk_phys": "94.1",
+    "atk_brut": "1.4",
+    "gold": "Gold par minute",
+    "wards": "Nov 2015"
+  },
+  "fiddlesticks": {
+    "atk_magic": "91.5",
+    "atk_phys": "1.4",
+    "atk_brut": "6.1",
+    "gold": "Gold par minute",
+    "wards": "Feb 2009"
+  },
+  "tahmkench": {
+    "atk_magic": "76.1",
+    "atk_phys": "19.8",
+    "atk_brut": "3.2",
+    "gold": "Gold par minute",
+    "wards": "Jul 2015"
+  },
+  "viktor": {
+    "atk_magic": "94.3",
+    "atk_phys": "2.4",
+    "atk_brut": "2.4",
+    "gold": "Gold par minute",
+    "wards": "Dec 2011"
+  },
+  "tryndamere": {
+    "atk_magic": "3.6",
+    "atk_phys": "92.6",
+    "atk_brut": "2.8",
+    "gold": "Gold par minute",
+    "wards": "Apr 2009"
+  },
+  "galio": {
+    "atk_magic": "93.7",
+    "atk_phys": "2.5",
+    "atk_brut": "2.7",
+    "gold": "Gold par minute",
+    "wards": "Aug 2010"
+  },
+  "vex": {
+    "atk_magic": "90.8",
+    "atk_phys": "6.1",
+    "atk_brut": "2.1",
+    "gold": "Gold par minute",
+    "wards": "Sep 2021"
+  },
+  "janna": {
+    "atk_magic": "81.5",
+    "atk_phys": "12.9",
+    "atk_brut": "4.6",
+    "gold": "Gold par minute",
+    "wards": "Sep 2009"
+  },
+  "teemo": {
+    "atk_magic": "81.6",
+    "atk_phys": "11.9",
+    "atk_brut": "5.4",
+    "gold": "Gold par minute",
+    "wards": "Feb 2009"
+  },
+  "alistar": {
+    "atk_magic": "74.6",
+    "atk_phys": "14.7",
+    "atk_brut": "9.7",
+    "gold": "Gold par minute",
+    "wards": "Feb 2009"
+  },
+  "fizz": {
+    "atk_magic": "78.1",
+    "atk_phys": "12.3",
+    "atk_brut": "8.6",
+    "gold": "Gold par minute",
+    "wards": "Nov 2011"
+  },
+  "swain": {
+    "atk_magic": "88.5",
+    "atk_phys": "6.6",
+    "atk_brut": "3.9",
+    "gold": "Gold par minute",
+    "wards": "Oct 2010"
+  },
+  "gwen": {
+    "atk_magic": "70.0",
+    "atk_phys": "13.4",
+    "atk_brut": "15.6",
+    "gold": "Gold par minute",
+    "wards": "Apr 2021"
+  },
+  "talon": {
+    "atk_magic": "0.8",
+    "atk_phys": "91.7",
+    "atk_brut": "6.5",
+    "gold": "Gold par minute",
+    "wards": "Aug 2011"
+  },
+  "kayle": {
+    "atk_magic": "65.1",
+    "atk_phys": "31.7",
+    "atk_brut": "2.2",
+    "gold": "Gold par minute",
+    "wards": "Feb 2009"
+  },
+  "hecarim": {
+    "atk_magic": "14.7",
+    "atk_phys": "80.2",
+    "atk_brut": "4.1",
+    "gold": "Gold par minute",
+    "wards": "Apr 2012"
+  },
+  "kindred": {
+    "atk_magic": "14.7",
+    "atk_phys": "75.4",
+    "atk_brut": "8.9",
+    "gold": "Gold par minute",
+    "wards": "Sep 2015"
+  },
+  "yorick": {
+    "atk_magic": "33.1",
+    "atk_phys": "64.2",
+    "atk_brut": "1.8",
+    "gold": "Gold par minute",
+    "wards": "Jun 2011"
+  },
+  "rakan": {
+    "atk_magic": "70.4",
+    "atk_phys": "18.5",
+    "atk_brut": "10.1",
+    "gold": "Gold par minute",
+    "wards": "Apr 2017"
+  },
+  "vladimir": {
+    "atk_magic": "92.3",
+    "atk_phys": "4.3",
+    "atk_brut": "2.4",
+    "gold": "Gold par minute",
+    "wards": "Jul 2010"
+  },
+  "ornn": {
+    "atk_magic": "64.4",
+    "atk_phys": "33.0",
+    "atk_brut": "1.6",
+    "gold": "Gold par minute",
+    "wards": "Aug 2017"
+  },
+  "riven": {
+    "atk_magic": "0.3",
+    "atk_phys": "93.7",
+    "atk_brut": "5.0",
+    "gold": "Gold par minute",
+    "wards": "Sep 2011"
+  },
+  "ekko": {
+    "atk_magic": "79.3",
+    "atk_phys": "11.5",
+    "atk_brut": "8.2",
+    "gold": "Gold par minute",
+    "wards": "May 2015"
+  },
+  "ksante": {
+    "atk_magic": "15.8",
+    "atk_phys": "75.7",
+    "atk_brut": "7.5",
+    "gold": "Gold par minute",
+    "wards": "Nov 2022"
+  },
+  "velkoz": {
+    "atk_magic": "72.1",
+    "atk_phys": "2.4",
+    "atk_brut": "24.6",
+    "gold": "Gold par minute",
+    "wards": "Feb 2014"
+  },
+  "briar": {
+    "atk_magic": "20.6",
+    "atk_phys": "72.0",
+    "atk_brut": "6.5",
+    "gold": "Gold par minute",
+    "wards": "Sep 2023"
+  },
+  "fiora": {
+    "atk_magic": "6.1",
+    "atk_phys": "63.1",
+    "atk_brut": "29.8",
+    "gold": "Gold par minute",
+    "wards": "Feb 2012"
+  },
+  "xayah": {
+    "atk_magic": "0.5",
+    "atk_phys": "96.7",
+    "atk_brut": "1.8",
+    "gold": "Gold par minute",
+    "wards": "Apr 2017"
+  },
+  "rengar": {
+    "atk_magic": "6.6",
+    "atk_phys": "86.5",
+    "atk_brut": "5.8",
+    "gold": "Gold par minute",
+    "wards": "Aug 2012"
+  },
+  "orianna": {
+    "atk_magic": "92.8",
+    "atk_phys": "5.0",
+    "atk_brut": "1.2",
+    "gold": "Gold par minute",
+    "wards": "May 2011"
+  },
+  "chogath": {
+    "atk_magic": "65.0",
+    "atk_phys": "16.0",
+    "atk_brut": "18.0",
+    "gold": "Gold par minute",
+    "wards": "Jun 2009"
+  },
+  "akshan": {
+    "atk_magic": "10.0",
+    "atk_phys": "84.8",
+    "atk_brut": "4.2",
+    "gold": "Gold par minute",
+    "wards": "Jul 2021"
+  },
+  "quinn": {
+    "atk_magic": "0.9",
+    "atk_phys": "91.0",
+    "atk_brut": "7.2",
+    "gold": "Gold par minute",
+    "wards": "Feb 2013"
+  },
+  "gangplank": {
+    "atk_magic": "13.8",
+    "atk_phys": "67.7",
+    "atk_brut": "17.5",
+    "gold": "Gold par minute",
+    "wards": "Aug 2009"
+  },
+  "anivia": {
+    "atk_magic": "87.2",
+    "atk_phys": "6.5",
+    "atk_brut": "5.2",
+    "gold": "Gold par minute",
+    "wards": "Jul 2009"
+  },
+  "kalista": {
+    "atk_magic": "9.9",
+    "atk_phys": "86.1",
+    "atk_brut": "3.1",
+    "gold": "Gold par minute",
+    "wards": "Nov 2014"
+  },
+  "bard": {
+    "atk_magic": "65.2",
+    "atk_phys": "24.8",
+    "atk_brut": "9.0",
+    "gold": "Gold par minute",
+    "wards": "Mar 2015"
+  },
+  "monkeyking": {
+    "atk_magic": "12.2",
+    "atk_phys": "80.8",
+    "atk_brut": "6.0",
+    "gold": "Gold par minute",
+    "wards": "Jul 2011"
+  },
+  "sona": {
+    "atk_magic": "77.8",
+    "atk_phys": "17.2",
+    "atk_brut": "4.0",
+    "gold": "Gold par minute",
+    "wards": "Sep 2010"
+  },
+  "belveth": {
+    "atk_magic": "12.1",
+    "atk_phys": "70.7",
+    "atk_brut": "16.1",
+    "gold": "Gold par minute",
+    "wards": "Jun 2022"
+  },
+  "ryze": {
+    "atk_magic": "93.7",
+    "atk_phys": "4.4",
+    "atk_brut": "0.9",
+    "gold": "Gold par minute",
+    "wards": "Feb 2009"
+  },
+  "urgot": {
+    "atk_magic": "0.8",
+    "atk_phys": "90.4",
+    "atk_brut": "7.8",
+    "gold": "Gold par minute",
+    "wards": "Aug 2010"
+  },
+  "azir": {
+    "atk_magic": "94.0",
+    "atk_phys": "3.0",
+    "atk_brut": "1.9",
+    "gold": "Gold par minute",
+    "wards": "Sep 2014"
+  },
+  "rammus": {
+    "atk_magic": "79.7",
+    "atk_phys": "15.3",
+    "atk_brut": "4.0",
+    "gold": "Gold par minute",
+    "wards": "Jul 2009"
+  },
+  "heimerdinger": {
+    "atk_magic": "93.2",
+    "atk_phys": "4.0",
+    "atk_brut": "1.9",
+    "gold": "Gold par minute",
+    "wards": "Oct 2009"
+  },
+  "sion": {
+    "atk_magic": "36.4",
+    "atk_phys": "60.0",
+    "atk_brut": "2.6",
+    "gold": "Gold par minute",
+    "wards": "Feb 2009"
+  },
+  "kogmaw": {
+    "atk_magic": "48.9",
+    "atk_phys": "40.6",
+    "atk_brut": "9.5",
+    "gold": "Gold par minute",
+    "wards": "Jun 2010"
+  },
+  "neeko": {
+    "atk_magic": "86.8",
+    "atk_phys": "7.9",
+    "atk_brut": "4.3",
+    "gold": "Gold par minute",
+    "wards": "Dec 2018"
+  },
+  "gnar": {
+    "atk_magic": "16.0",
+    "atk_phys": "81.3",
+    "atk_brut": "1.8",
+    "gold": "Gold par minute",
+    "wards": "Aug 2014"
+  },
+  "cassiopeia": {
+    "atk_magic": "96.2",
+    "atk_phys": "2.0",
+    "atk_brut": "0.8",
+    "gold": "Gold par minute",
+    "wards": "Dec 2010"
+  },
+  "nunu": {
+    "atk_magic": "86.7",
+    "atk_phys": "6.7",
+    "atk_brut": "5.6",
+    "gold": "Gold par minute",
+    "wards": "Feb 2009"
+  },
+  "zyra": {
+    "atk_magic": "89.2",
+    "atk_phys": "5.0",
+    "atk_brut": "4.8",
+    "gold": "Gold par minute",
+    "wards": "Jul 2012"
+  },
+  "ziggs": {
+    "atk_magic": "94.1",
+    "atk_phys": "3.5",
+    "atk_brut": "1.4",
+    "gold": "Gold par minute",
+    "wards": "Jan 2012"
+  },
+  "lissandra": {
+    "atk_magic": "89.4",
+    "atk_phys": "5.7",
+    "atk_brut": "4.0",
+    "gold": "Gold par minute",
+    "wards": "Apr 2013"
+  },
+  "evelynn": {
+    "atk_magic": "89.5",
+    "atk_phys": "3.3",
+    "atk_brut": "6.2",
+    "gold": "Gold par minute",
+    "wards": "Apr 2009"
+  },
+  "zoe": {
+    "atk_magic": "75.6",
+    "atk_phys": "7.8",
+    "atk_brut": "15.6",
+    "gold": "Gold par minute",
+    "wards": "Nov 2017"
+  },
+  "kassadin": {
+    "atk_magic": "88.4",
+    "atk_phys": "7.2",
+    "atk_brut": "3.3",
+    "gold": "Gold par minute",
+    "wards": "Aug 2009"
+  },
+  "ivern": {
+    "atk_magic": "58.8",
+    "atk_phys": "28.1",
+    "atk_brut": "12.1",
+    "gold": "Gold par minute",
+    "wards": "Oct 2016"
+  },
+  "renata": {
+    "atk_magic": "59.9",
+    "atk_phys": "13.8",
+    "atk_brut": "25.3",
+    "gold": "Gold par minute",
+    "wards": "Feb 2022"
+  },
+  "qiyana": {
+    "atk_magic": "7.7",
+    "atk_phys": "84.8",
+    "atk_brut": "6.5",
+    "gold": "Gold par minute",
+    "wards": "Jun 2019"
+  },
+  "olaf": {
+    "atk_magic": "0.4",
+    "atk_phys": "72.8",
+    "atk_brut": "25.8",
+    "gold": "Gold par minute",
+    "wards": "Jun 2010"
+  },
+  "reksai": {
+    "atk_magic": "15.3",
+    "atk_phys": "76.8",
+    "atk_brut": "6.9",
+    "gold": "Gold par minute",
+    "wards": "Dec 2014"
+  },
+  "singed": {
+    "atk_magic": "91.8",
+    "atk_phys": "5.0",
+    "atk_brut": "2.2",
+    "gold": "Gold par minute",
+    "wards": "Apr 2009"
+  },
+  "kled": {
+    "atk_magic": "0.4",
+    "atk_phys": "94.5",
+    "atk_brut": "4.1",
+    "gold": "Gold par minute",
+    "wards": "Aug 2016"
+  },
+  "elise": {
+    "atk_magic": "84.4",
+    "atk_phys": "7.3",
+    "atk_brut": "7.3",
+    "gold": "Gold par minute",
+    "wards": "Oct 2012"
+  },
+  "annie": {
+    "atk_magic": "90.4",
+    "atk_phys": "4.0",
+    "atk_brut": "4.6",
+    "gold": "Gold par minute",
+    "wards": "Feb 2009"
+  },
+  "syndra": {
+    "atk_magic": "87.8",
+    "atk_phys": "3.7",
+    "atk_brut": "7.5",
+    "gold": "Gold par minute",
+    "wards": "Sep 2012"
+  },
+  "amumu": {
+    "atk_magic": "76.8",
+    "atk_phys": "9.2",
+    "atk_brut": "12.9",
+    "gold": "Gold par minute",
+    "wards": "Jun 2009"
+  },
+  "rumble": {
+    "atk_magic": "90.9",
+    "atk_phys": "4.0",
+    "atk_brut": "4.1",
+    "gold": "Gold par minute",
+    "wards": "Apr 2011"
+  },
+  "maokai": {
+    "atk_magic": "82.0",
+    "atk_phys": "10.6",
+    "atk_brut": "6.4",
+    "gold": "Gold par minute",
+    "wards": "Feb 2011"
+  },
+  "shen": {
+    "atk_magic": "42.9",
+    "atk_phys": "49.4",
+    "atk_brut": "6.7",
+    "gold": "Gold par minute",
+    "wards": "Mar 2010"
+  },
+  "jarvaniv": {
+    "atk_magic": "8.3",
+    "atk_phys": "84.0",
+    "atk_brut": "6.8",
+    "gold": "Gold par minute",
+    "wards": "Feb 2011"
+  },
+  "kennen": {
+    "atk_magic": "85.4",
+    "atk_phys": "10.9",
+    "atk_brut": "2.7",
+    "gold": "Gold par minute",
+    "wards": "Apr 2010"
+  },
+  "sejuani": {
+    "atk_magic": "42.9",
+    "atk_phys": "50.5",
+    "atk_brut": "5.6",
+    "gold": "Gold par minute",
+    "wards": "Jan 2012"
+  },
+  "udyr": {
+    "atk_magic": "54.0",
+    "atk_phys": "40.6",
+    "atk_brut": "4.3",
+    "gold": "Gold par minute",
+    "wards": "Dec 2009"
+  },
+  "pantheon": {
+    "atk_magic": "3.3",
+    "atk_phys": "90.1",
+    "atk_brut": "5.6",
+    "gold": "Gold par minute",
+    "wards": "Feb 2010"
+  },
+  "jayce": {
+    "atk_magic": "18.1",
+    "atk_phys": "78.9",
+    "atk_brut": "2.0",
+    "gold": "Gold par minute",
+    "wards": "Jul 2012"
+  },
+  "drmundo": {
+    "atk_magic": "56.1",
+    "atk_phys": "41.2",
+    "atk_brut": "1.7",
+    "gold": "Gold par minute",
+    "wards": "Sep 2009"
+  },
+  "zilean": {
+    "atk_magic": "80.7",
+    "atk_phys": "12.7",
+    "atk_brut": "5.6",
+    "gold": "Gold par minute",
+    "wards": "Apr 2009"
+  },
+  "soraka": {
+    "atk_magic": "81.9",
+    "atk_phys": "11.9",
+    "atk_brut": "5.2",
+    "gold": "Gold par minute",
+    "wards": "Feb 2009"
+  },
+  "aurelionsol": {
+    "atk_magic": "95.3",
+    "atk_phys": "1.2",
+    "atk_brut": "2.5",
+    "gold": "Gold par minute",
+    "wards": "Mar 2016"
+  },
+  "varus": {
+    "atk_magic": "26.0",
+    "atk_phys": "70.6",
+    "atk_brut": "2.4",
+    "gold": "Gold par minute",
+    "wards": "May 2012"
+  },
+  "trundle": {
+    "atk_magic": "13.2",
+    "atk_phys": "83.3",
+    "atk_brut": "2.5",
+    "gold": "Gold par minute",
+    "wards": "Nov 2010"
+  },
+  "shyvana": {
+    "atk_magic": "73.0",
+    "atk_phys": "20.6",
+    "atk_brut": "5.3",
+    "gold": "Gold par minute",
+    "wards": "Oct 2011"
+  },
+  "twitch": {
+    "atk_magic": "5.4",
+    "atk_phys": "77.7",
+    "atk_brut": "15.9",
+    "gold": "Gold par minute",
+    "wards": "Apr 2009"
+  },
+  "nilah": {
+    "atk_magic": "0.6",
+    "atk_phys": "94.9",
+    "atk_brut": "3.5",
+    "gold": "Gold par minute",
+    "wards": "Jul 2022"
+  },
+  "taric": {
+    "atk_magic": "60.0",
+    "atk_phys": "29.7",
+    "atk_brut": "9.3",
+    "gold": "Gold par minute",
+    "wards": "Aug 2009"
+  },
+  "": {}
+}

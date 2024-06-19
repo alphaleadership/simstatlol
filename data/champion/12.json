@@ -1,0 +1,82 @@
+{
+  "akshan": {
+    "atk_magic": "10.0",
+    "atk_phys": "84.8",
+    "atk_brut": "4.2",
+    "gold": "441",
+    "wards": "0.30",
+    "atk_min": "848"
+  },
+  "ziggs": {
+    "atk_magic": "94.1",
+    "atk_phys": "3.5",
+    "atk_brut": "1.4",
+    "gold": "415",
+    "wards": "0.36",
+    "atk_min": "913"
+  },
+  "trundle": {
+    "atk_magic": "13.2",
+    "atk_phys": "83.3",
+    "atk_brut": "2.5",
+    "gold": "431",
+    "wards": "0.28",
+    "atk_min": "654"
+  },
+  "evelynn": {
+    "atk_magic": "89.5",
+    "atk_phys": "3.3",
+    "atk_brut": "6.2",
+    "gold": "404",
+    "wards": "0.25",
+    "atk_min": "716"
+  },
+  "kogmaw": {
+    "atk_magic": "48.9",
+    "atk_phys": "40.6",
+    "atk_brut": "9.5",
+    "gold": "440",
+    "wards": "0.30",
+    "atk_min": "989"
+  },
+  "kayle": {
+    "atk_magic": "65.1",
+    "atk_phys": "31.7",
+    "atk_brut": "2.2",
+    "gold": "429",
+    "wards": "0.30",
+    "atk_min": "737"
+  },
+  "irelia": {
+    "atk_magic": "26.8",
+    "atk_phys": "69.8",
+    "atk_brut": "2.4",
+    "gold": "452",
+    "wards": "0.30",
+    "atk_min": "804"
+  },
+  "kayn": {
+    "atk_magic": "5.5",
+    "atk_phys": "87.1",
+    "atk_brut": "6.4",
+    "gold": "418",
+    "wards": "0.18",
+    "atk_min": "690"
+  },
+  "renekton": {
+    "atk_magic": "14.0",
+    "atk_phys": "82.4",
+    "atk_brut": "2.6",
+    "gold": "423",
+    "wards": "0.29",
+    "atk_min": "767"
+  },
+  "ryze": {
+    "atk_magic": "93.7",
+    "atk_phys": "4.4",
+    "atk_brut": "0.9",
+    "gold": "415",
+    "wards": "0.33",
+    "atk_min": "812"
+  }
+}

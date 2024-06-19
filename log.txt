@@ -1,0 +1,137 @@
+@geops/create-react-web-component@geops/create-react-web-component
+Create a web-component from a React component.Create a web-component from a React component.
+Version 3.0.5 published 2023-12-19 by oterral
+Maintainers: lb1c friedjoff oterral geops-admin lucien.edel mario.haertwig gevos danji90
+Keywords: react web-component typescript
+https://npm.im/@geops/create-react-web-component
+
+create-rpccreate-rpc
+Starter template of Typescript web server with auto-generated client SDK using RPC with ajax.Starter template of Typescript web server with auto-generated client SDK using RPC with ajax.
+Version 1.13.2 published 2024-05-23 by beenotung
+Maintainers: beenotung
+Keywords: RPC code-generation SDK starter starter-kit cli template typescript
+https://npm.im/create-rpc
+
+@openapi-typescript-infra/create@openapi-typescript-infra/create
+Project generator for @openapi-typescript-infra servicesProject generator for @openapi-typescript-infra services
+Version 2.1.6 published 2024-05-02 by djmax
+Maintainers: djmax
+https://npm.im/@openapi-typescript-infra/create
+
+@alterior/annotations@alterior/annotations
+Create and interact with Typescript metadata decoratorsCreate and interact with Typescript metadata decorators
+Version 3.8.0 published 2024-04-15 by rezonant
+Maintainers: rezonant
+Keywords: decorators metadata annotations
+https://npm.im/@alterior/annotations
+
+create-typescript-npm-librarycreate-typescript-npm-library
+Simple typescript app with jest to create a npm library with typesSimple typescript app with jest to create a npm library with types
+Version 1.0.3 published 2023-06-13 by thesmartmonkey
+Maintainers: thesmartmonkey
+Keywords: npm library template typescript
+https://npm.im/create-typescript-npm-library
+
+greendbgreendb
+create npm package with typescriptcreate npm package with typescript
+Version 2.0.27 published 2024-05-26 by inu1255
+Maintainers: inu1255
+Keywords: typescript
+https://npm.im/greendb
+
+create-rivecreate-rive
+Effortless React/Node.js library development experienceEffortless React/Node.js library development experience
+Version 2.0.11 published 2024-04-28 by guoyunhe
+Maintainers: guoyunhe
+Keywords: component document library react typescript vite
+https://npm.im/create-rive
+
+ts-patch-mongoosets-patch-mongoose
+Patch history & events for mongoose modelsPatch history & events for mongoose models
+Version 2.6.2 published 2024-06-17 by ilovepixelart
+Maintainers: ilovepixelart
+Keywords: backend mongoose plugin mongo schema db nosql ts typescript swc patch history event emit create update delete audit log
+https://npm.im/ts-patch-mongoose
+
+spfx-css-modules-typescript-loaderspfx-css-modules-typescript-loader
+Webpack loader to create TypeScript declarations for CSS ModulesWebpack loader to create TypeScript declarations for CSS Modules
+Version 4.0.6 published 2023-06-29 by s-kainet
+Maintainers: s-kainet
+https://npm.im/spfx-css-modules-typescript-loader
+
+cra-template-bodcra-template-bod
+The advanced TypeScript template for Bod CLI.The advanced TypeScript template for Bod CLI.
+Version 5.21.1 published 2024-04-24 by sabertazimi
+Maintainers: sabertazimi
+Keywords: bod bod-cli bod-template react create-react-app template typescript
+https://npm.im/cra-template-bod
+
+create-ntem-appcreate-ntem-app
+Boilerplate with Node, Typescript, Express, Mongoose to make RESTfull API in one goBoilerplate with Node, Typescript, Express, Mongoose to make RESTfull API in one go
+Version 1.0.5 published 2024-06-14 by tushar1866
+Maintainers: tushar1866
+Keywords: node node.js template typescript production boilerplate express rest api mongodb mongoose jest passport joi eslint prettier
+https://npm.im/create-ntem-app
+
+create-boilerplate-vite-react-tscreate-boilerplate-vite-react-ts
+Start a Vite React TypeScript project in few second !Start a Vite React TypeScript project in few second !
+Version 2.7.1 published 2023-09-19 by mickael-tracktor
+Maintainers: mickael-tracktor
+Keywords: react react create app vite create app react router i18next react-query javascript typescript
+https://npm.im/create-boilerplate-vite-react-ts
+
+@aleleba/create-react-ssr@aleleba/create-react-ssr
+Starter Kit of server side render of reactStarter Kit of server side render of react
+Version 3.9.23 published 2024-04-28 by aleleba
+Maintainers: aleleba
+Keywords: create react app react ssr typescript redux
+https://npm.im/@aleleba/create-react-ssr
+
+@aleleba/create-node-ts-graphql-server@aleleba/create-node-ts-graphql-server
+Node with Typescript and GraphQL ServerNode with Typescript and GraphQL Server
+Version 1.5.15 published 2024-02-14 by aleleba
+Maintainers: aleleba
+Keywords: node express typescript graphql server
+https://npm.im/@aleleba/create-node-ts-graphql-server
+
+bridgebridge
+Bridge is a Typescript Node.js framework that provides an easy and scalable way to create REST APIs while generating the client code.Bridge is a Typescript Node.js framework that provides an easy and scalable way to create REST APIs while generating the client code.
+Version 2.0.71 published 2024-01-04 by nabil-stw
+Maintainers: hyver314 nabil-stw
+Keywords: express http api sdk typescript generation type node framework rest
+https://npm.im/bridge
+
+json-schema-to-dtsjson-schema-to-dts
+Create TypeScript types from json-schema v7Create TypeScript types from json-schema v7
+Version 2.0.1 published 2024-04-12 by filearts
+Maintainers: filearts
+https://npm.im/json-schema-to-dts
+
+mel3kings-saas-utilsmel3kings-saas-utils
+A starter kit for create a React component Library with storybookA starter kit for create a React component Library with storybook
+Version 1.0.5 published 2024-03-01 by meltatlonghari
+Maintainers: meltatlonghari
+Keywords: create react component library typescript
+https://npm.im/mel3kings-saas-utils
+
+jasmine-auto-spiesjasmine-auto-spies
+Create automatic spies from classes in jasmine tests, also for promises and observablesCreate automatic spies from classes in jasmine tests, also for promises and observables
+Version 8.0.1 published 2023-08-31 by hirez.io
+Maintainers: hirez.io
+Keywords: jasmine jasmine-given spies mocks async methods TypeScript Tests RxJS testing Promises tests
+https://npm.im/jasmine-auto-spies
+
+create-plume-react-projectcreate-plume-react-project
+CLI to create Plume React ProjectCLI to create Plume React Project
+Version 3.1.3 published 2024-04-05 by vincentdbs
+Maintainers: benoitvasseur lucas-amiaud amanteaux vincentdbs
+Keywords: cli create-project react typescript archetype plume
+https://npm.im/create-plume-react-project
+
+object-class-initializerobject-class-initializer
+Create an object using an anonymous class to access the 'object' during its initialization.Create an object using an anonymous class to access the 'object' during its initialization.
+Version 1.0.1 published 2024-02-19 by loaderb0t
+Maintainers: loaderb0t
+Keywords: typescript
+https://npm.im/object-class-initializer
+

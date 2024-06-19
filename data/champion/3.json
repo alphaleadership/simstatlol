@@ -1,0 +1,82 @@
+{
+  "nami": {
+    "atk_magic": "84.6",
+    "atk_phys": "10.4",
+    "atk_brut": "3.9",
+    "gold": "287",
+    "wards": "0.90",
+    "atk_min": "324"
+  },
+  "sylas": {
+    "atk_magic": "90.8",
+    "atk_phys": "2.8",
+    "atk_brut": "5.4",
+    "gold": "404",
+    "wards": "0.29",
+    "atk_min": "807"
+  },
+  "aatrox": {
+    "atk_magic": "15.8",
+    "atk_phys": "81.6",
+    "atk_brut": "1.5",
+    "gold": "402",
+    "wards": "0.29",
+    "atk_min": "816"
+  },
+  "khazix": {
+    "atk_magic": "5.0",
+    "atk_phys": "86.7",
+    "atk_brut": "7.3",
+    "gold": "435",
+    "wards": "0.19",
+    "atk_min": "695"
+  },
+  "tristana": {
+    "atk_magic": "9.6",
+    "atk_phys": "87.1",
+    "atk_brut": "2.3",
+    "gold": "453",
+    "wards": "0.31",
+    "atk_min": "760"
+  },
+  "hwei": {
+    "atk_magic": "92.8",
+    "atk_phys": "4.3",
+    "atk_brut": "1.9",
+    "gold": "385",
+    "wards": "0.43",
+    "atk_min": "815"
+  },
+  "zed": {
+    "atk_magic": "4.9",
+    "atk_phys": "88.5",
+    "atk_brut": "5.6",
+    "gold": "429",
+    "wards": "0.25",
+    "atk_min": "822"
+  },
+  "skarner": {
+    "atk_magic": "38.3",
+    "atk_phys": "58.3",
+    "atk_brut": "2.5",
+    "gold": "364",
+    "wards": "0.30",
+    "atk_min": "691"
+  },
+  "xerath": {
+    "atk_magic": "93.5",
+    "atk_phys": "2.8",
+    "atk_brut": "2.7",
+    "gold": "371",
+    "wards": "0.62",
+    "atk_min": "822"
+  },
+  "sett": {
+    "atk_magic": "0.8",
+    "atk_phys": "77.9",
+    "atk_brut": "20.3",
+    "gold": "417",
+    "wards": "0.30",
+    "atk_min": "830"
+  }
+}

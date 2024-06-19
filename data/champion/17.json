@@ -1,0 +1,59 @@
+{
+  "poppy": {
+    "atk_magic": "17.0",
+    "atk_phys": "76.3",
+    "atk_brut": "5.7",
+    "gold": "348",
+    "wards": "0.57",
+    "atk_min": "589"
+  },
+  "lissandra": {
+    "atk_magic": "89.4",
+    "atk_phys": "5.7",
+    "atk_brut": "4.0",
+    "gold": "389",
+    "wards": "0.34",
+    "atk_min": "716"
+  },
+  "zyra": {
+    "atk_magic": "89.2",
+    "atk_phys": "5.0",
+    "atk_brut": "4.8",
+    "gold": "327",
+    "wards": "0.82",
+    "atk_min": "706"
+  },
+  "kennen": {
+    "atk_magic": "85.4",
+    "atk_phys": "10.9",
+    "atk_brut": "2.7",
+    "gold": "401",
+    "wards": "0.32",
+    "atk_min": "817"
+  },
+  "janna": {
+    "atk_magic": "81.5",
+    "atk_phys": "12.9",
+    "atk_brut": "4.6",
+    "gold": "284",
+    "wards": "0.96",
+    "atk_min": "289"
+  },
+  "zeri": {
+    "atk_magic": "29.1",
+    "atk_phys": "67.5",
+    "atk_brut": "2.4",
+    "gold": "464",
+    "wards": "0.29",
+    "atk_min": "836"
+  },
+  "graves": {
+    "atk_magic": "3.7",
+    "atk_phys": "87.3",
+    "atk_brut": "8.0",
+    "gold": "443",
+    "wards": "0.22",
+    "atk_min": "705"
+  },
+  "": {}
+}

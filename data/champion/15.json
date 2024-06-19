@@ -1,0 +1,82 @@
+{
+  "kalista": {
+    "atk_magic": "9.9",
+    "atk_phys": "86.1",
+    "atk_brut": "3.1",
+    "gold": "462",
+    "wards": "0.31",
+    "atk_min": "786"
+  },
+  "chogath": {
+    "atk_magic": "65.0",
+    "atk_phys": "16.0",
+    "atk_brut": "18.0",
+    "gold": "391",
+    "wards": "0.31",
+    "atk_min": "719"
+  },
+  "shen": {
+    "atk_magic": "42.9",
+    "atk_phys": "49.4",
+    "atk_brut": "6.7",
+    "gold": "349",
+    "wards": "0.35",
+    "atk_min": "568"
+  },
+  "yuumi": {
+    "atk_magic": "88.6",
+    "atk_phys": "4.3",
+    "atk_brut": "6.0",
+    "gold": "280",
+    "wards": "0.76",
+    "atk_min": "293"
+  },
+  "gnar": {
+    "atk_magic": "16.0",
+    "atk_phys": "81.3",
+    "atk_brut": "1.8",
+    "gold": "402",
+    "wards": "0.31",
+    "atk_min": "801"
+  },
+  "soraka": {
+    "atk_magic": "81.9",
+    "atk_phys": "11.9",
+    "atk_brut": "5.2",
+    "gold": "272",
+    "wards": "0.87",
+    "atk_min": "198"
+  },
+  "swain": {
+    "atk_magic": "88.5",
+    "atk_phys": "6.6",
+    "atk_brut": "3.9",
+    "gold": "353",
+    "wards": "0.58",
+    "atk_min": "734"
+  },
+  "renata": {
+    "atk_magic": "59.9",
+    "atk_phys": "13.8",
+    "atk_brut": "25.3",
+    "gold": "287",
+    "wards": "1.05",
+    "atk_min": "344"
+  },
+  "taric": {
+    "atk_magic": "60.0",
+    "atk_phys": "29.7",
+    "atk_brut": "9.3",
+    "gold": "296",
+    "wards": "0.78",
+    "atk_min": "257"
+  },
+  "heimerdinger": {
+    "atk_magic": "93.2",
+    "atk_phys": "4.0",
+    "atk_brut": "1.9",
+    "gold": "394",
+    "wards": "0.40",
+    "atk_min": "919"
+  }
+}

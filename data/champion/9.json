@@ -1,0 +1,82 @@
+{
+  "lillia": {
+    "atk_magic": "75.8",
+    "atk_phys": "3.6",
+    "atk_brut": "19.6",
+    "gold": "421",
+    "wards": "0.19",
+    "atk_min": "746"
+  },
+  "singed": {
+    "atk_magic": "91.8",
+    "atk_phys": "5.0",
+    "atk_brut": "2.2",
+    "gold": "390",
+    "wards": "0.31",
+    "atk_min": "683"
+  },
+  "kled": {
+    "atk_magic": "0.4",
+    "atk_phys": "94.5",
+    "atk_brut": "4.1",
+    "gold": "433",
+    "wards": "0.29",
+    "atk_min": "834"
+  },
+  "amumu": {
+    "atk_magic": "76.8",
+    "atk_phys": "9.2",
+    "atk_brut": "12.9",
+    "gold": "373",
+    "wards": "0.28",
+    "atk_min": "553"
+  },
+  "mordekaiser": {
+    "atk_magic": "85.2",
+    "atk_phys": "11.6",
+    "atk_brut": "2.2",
+    "gold": "403",
+    "wards": "0.29",
+    "atk_min": "822"
+  },
+  "warwick": {
+    "atk_magic": "49.5",
+    "atk_phys": "45.6",
+    "atk_brut": "3.8",
+    "gold": "409",
+    "wards": "0.22",
+    "atk_min": "650"
+  },
+  "monkeyking": {
+    "atk_magic": "12.2",
+    "atk_phys": "80.8",
+    "atk_brut": "6.0",
+    "gold": "411",
+    "wards": "0.24",
+    "atk_min": "675"
+  },
+  "morgana": {
+    "atk_magic": "87.4",
+    "atk_phys": "5.6",
+    "atk_brut": "6.1",
+    "gold": "326",
+    "wards": "0.77",
+    "atk_min": "538"
+  },
+  "shyvana": {
+    "atk_magic": "73.0",
+    "atk_phys": "20.6",
+    "atk_brut": "5.3",
+    "gold": "443",
+    "wards": "0.23",
+    "atk_min": "762"
+  },
+  "olaf": {
+    "atk_magic": "0.4",
+    "atk_phys": "72.8",
+    "atk_brut": "25.8",
+    "gold": "431",
+    "wards": "0.26",
+    "atk_min": "800"
+  }
+}
